@@ -81,5 +81,19 @@
 |  Liga Europa                |  84  |
 |  Campeonato Mineiro         |  86  | 
 |  Mundial de Clubes          |  87  |
+|  Campeonato Paranaense      |  103 |
+|  Campeonato Paulista        |  104 |
+|  Camp. Paulista Série A-2   |  105 |
+|  Campeonato Pernambucano    |  107 |
+|  Recopa Sul-Americana       |  110 |
+|  Camp. Brasileiro - Série B |  112 | 
+|  Camp. Brasileiro - Série C |  113 |
+|  Camp. Brasileiro - Série D |  114 |
+|  Supercopa da Espanha       |  117 |
+|  Supercopa da Europa        |  118 |
+|  Supercopa da Inglaterra    |  119 |
+|  Supercopa da Itália        |  120 |
+|  Supercopa da Europa        |  118 |
+|  Supercopa da Europa        |  118 |
 
-
+ 
