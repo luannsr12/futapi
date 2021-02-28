@@ -39,7 +39,7 @@
  $params = "?ano=2020&campeonato=30&rodada=38";
  ```
  
- #### Informações da equipe
+#### Informações da equipe
 ##### GET `/equipe`
 ```php
 <?php
@@ -47,3 +47,39 @@
  $url = "http://localhost/apifut/equipe";
  $params = "?ano=2020&campeonato=30&rodada=38&id=4";
  ```
+
+------
+## Campeonatos
+
+| Campeonato                  |  ID  |
+| ------------------------    | ---  |
+|  Campeonato Brasileiro      |  30  |
+|  Campeonato Alemão          |  12  |
+|  Amistosos                  |  13  |
+|  Campeonato Baiano          |  28  |
+|  Campeonato Carioca         |  34  |
+|  Campeonato Cearense        |  36  |
+|  Copa América               |  39  |
+|  Copa da Alemanha           |  41  |
+|  Copa da França             |  42  |
+|  Copa da Inglaterra         |  43  |
+|  Copa da Itália             |  44  |
+|  Copa do Brasil             |  48  |
+|  Copa do Nordeste           |  55  |
+|  Copa do Rei                |  56  |
+|  Copa São Paulo de Jr       |  58  |
+|  Copa Sul-Americana         |  59  |
+|  Eliminatória Sul-Americana |  68  |
+|  Campeonato Espanhol        |  72  |
+|  Eurocopa                   |  74  | 
+|  Campeonato Francês         |  76  |
+|  Campeonato Gaúcho          |  77  |
+|  Campeonato Inglês          |  79  | 
+|  Campeonato Italiano        |  81  |
+|  Copa Libertadores          |  82  |
+|  Liga dos Campeões da UEFA  |  83  |
+|  Liga Europa                |  84  |
+|  Campeonato Mineiro         |  86  | 
+|  Mundial de Clubes          |  87  |
+
+
