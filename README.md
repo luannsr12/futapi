@@ -93,7 +93,4 @@
 |  Supercopa da Europa        |  118 |
 |  Supercopa da Inglaterra    |  119 |
 |  Supercopa da Itália        |  120 |
-|  Supercopa da Europa        |  118 |
-|  Supercopa da Europa        |  118 |
-
  
